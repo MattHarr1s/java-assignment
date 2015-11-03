@@ -4,10 +4,12 @@
 	<head>
 		<meta charset="UTF-8">
 		<title>Java Assignment</title>
+		<!-- custom javascript-->
+		<script type="text/javascript" src="js/custom.js"></script>
 	</head>
 	<body>
 		<!-- track 2, "sandwiches"-->
-		<p>I order the club sandwich all the time, but I'm not even a member, man. I don't know how I get away with it.
+		<p id="sandwich">I order the club sandwich all the time, but I'm not even a member, man. I don't know how I get away with it.
 			How'd it start anyway? I like my sandwiches with three pieces of bread. So do I! Well let's form a club then.
 			Alright, but we need more stipulations. Yes we do; instead of cutting the sandwich once, let's cut it again.
 			Yes, four triangles, and we will position them into a circle. In the middle we will dump chips. Or potato salad.

@@ -6,5 +6,5 @@ function clickEvent(){
 }
 
 function mouseOver(){
-	document.getElementById("payment").style.font="serif";
+	document.getElementById("payment").style.color="red";
 }

@@ -37,8 +37,8 @@
 				paper into this. I just can't imagine a scenario where I would have to prove that I bought a doughnut. Some
 				skeptical friend: "Don't even act like I didn't get that doughnut!
 				I got the documentation right here...oh, wait it's at home...in the file...under "D".
-			</p>
 			<div id="closeDoughnuts" onclick="closeDoughnuts();">X</div>
+			</p>
 		</div>
 	</body>
 

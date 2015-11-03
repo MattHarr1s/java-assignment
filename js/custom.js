@@ -12,3 +12,9 @@ function mouseOver() {
 function mouseOut(){
 	document.getElementById("payment").style.color ="green";
 }
+function popUp(){
+	document.getElementById("donutUp").style.display ="block";
+}
+function closeDoughnuts(){
+	document.getElementById("donutUp").style.display="none"
+;}

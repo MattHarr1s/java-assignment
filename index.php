@@ -29,12 +29,17 @@
 			</p>
 		</div>
 		<!--Doughnuts-->
-		<p>I bought a doughnut and they gave me a receipt for the doughnut. I don't need a receipt for the doughnut.
-			I'll just give you the money, and you give me the doughnut, end of transaction. We don't need to bring ink and
-			paper into this. I just can't imagine a scenario where I would have to prove that I bought a doughnut. Some
-			skeptical friend: "Don't even act like I didn't get that doughnut!
-			I got the documentation right here...oh, wait it's at home...in the file...under "D".
-		</p>
+		<a class="btn btn-primary" id="popUp" onclick="popUp();">Donut</a>
+		<div id="donutUp" style="display:block;">
+			<h3>Doughnuts</h3>
+			<p id="oldtext">I bought a doughnut and they gave me a receipt for the doughnut. I don't need a receipt for the doughnut.
+				I'll just give you the money, and you give me the doughnut, end of transaction. We don't need to bring ink and
+				paper into this. I just can't imagine a scenario where I would have to prove that I bought a doughnut. Some
+				skeptical friend: "Don't even act like I didn't get that doughnut!
+				I got the documentation right here...oh, wait it's at home...in the file...under "D".
+			</p>
+			<div id="closeDoughnuts" onclick="closeDoughnuts();">X</div>
+		</div>
 	</body>
 
 

@@ -10,5 +10,5 @@ function mouseOver() {
 }
 
 function mouseOut(){
-	document.getElementById("payment").style.backgroundcolor ="green";
+	document.getElementById("payment").style.color ="green";
 }

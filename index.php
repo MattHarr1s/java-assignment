@@ -29,7 +29,7 @@
 			</p>
 		</div>
 		<!--Doughnuts-->
-		<a class="btn btn-primary" id="popUp" onclick="popUp();">Donut</a>
+		<a class="btn btn-primary" id="popUp" onclick="popUp();">Doughnuts</a>
 		<div id="donutUp" style="display:block;">
 			<h3>Doughnuts</h3>
 			<p id="oldtext">I bought a doughnut and they gave me a receipt for the doughnut. I don't need a receipt for the doughnut.

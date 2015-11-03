@@ -20,11 +20,13 @@
 			</p>
 	</div>
 		<!--track 11, " Three easy payments-->
-		<p>So it said "You can have this product for four easy payments of 19.95." I would like to have a product that was
-			available for three easy payments, and one fuckin' complicated payment! We ain't gonna tell you which payment
-			it is, but one of these payments is gonna be a bitch. The mailman will get shot to death, the envelope will not
-			seal, and the stamp will be in the wrong denomination; good luck, fucker! The last payment must be made in wampum!
-		</p>
+		<div id="payment" onmouseover="mouseOver();">
+			<p>So it said "You can have this product for four easy payments of 19.95." I would like to have a product that was
+				available for three easy payments, and one fuckin' complicated payment! We ain't gonna tell you which payment
+				it is, but one of these payments is gonna be a bitch. The mailman will get shot to death, the envelope will not
+				seal, and the stamp will be in the wrong denomination; good luck, fucker! The last payment must be made in wampum!
+			</p>
+		</div>
 		<!--Doughnuts-->
 		<p>I bought a doughnut and they gave me a receipt for the doughnut. I don't need a receipt for the doughnut.
 			I'll just give you the money, and you give me the doughnut, end of transaction. We don't need to bring ink and

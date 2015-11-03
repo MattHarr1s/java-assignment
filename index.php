@@ -9,7 +9,7 @@
 	</head>
 	<body>
 		<!-- track 2, "sandwiches"-->
-		<div id="sandwich">
+		<div id="sandwich" onclick="clickEvent();">
 			<p>I order the club sandwich all the time, but I'm not even a member, man. I don't know how I get away with it.
 				How'd it start anyway? I like my sandwiches with three pieces of bread. So do I! Well let's form a club then.
 				Alright, but we need more stipulations. Yes we do; instead of cutting the sandwich once, let's cut it again.

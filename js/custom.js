@@ -5,6 +5,10 @@ function clickEvent(){
 	document.getElementById("sandwich").style.color ="blue";
 }
 
-function mouseOver(){
-	document.getElementById("payment").style.color="red";
+function mouseOver() {
+		document.getElementById("payment").style.backgroundColor = "white";
+}
+
+function mouseOut(){
+	document.getElementById("payment").style.backgroundcolor ="green";
 }
